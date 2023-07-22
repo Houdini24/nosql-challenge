@@ -16,12 +16,11 @@ Question 2: Which establishments in London have a RatingValue greater than or eq
 * I could not find any establishments in London with a RatingValue greated than or equal to 4.
   
 Question 3: What are the top 5 establishments with a RatingValue of 5, sorted by lowest hygiene score, nearest to the new restaurant added, "Penang Flavours"?
-*
+
+![](https://github.com/Houdini24/nosql-challenge/blob/main/Resources/Screenshot%202023-07-22%20at%202.29.54%20PM.png)
 
 Question 4: How many establishments in each Local Authority area have a hygiene score of 0? 
 * I found 55 establishments with a hygiene score of 0.
-
-
 
 ### Acknowledgements
 I used the following resources to help complete this project:
